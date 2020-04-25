@@ -1,4 +1,7 @@
 SystemName,Scheduler,University,Country,Evidence
+ARC 2,Son of Grid Engine,University of Leeds,UK,https://arc.leeds.ac.uk/using-the-systems/why-have-a-scheduler/the-scheduler-sge/
+ARC 3,Son of Grid Engine,University of Leeds,UK,https://arc.leeds.ac.uk/using-the-systems/why-have-a-scheduler/the-scheduler-sge/
+ARC 4,Son of Grid Engine,University of Leeds,UK,https://arc.leeds.ac.uk/using-the-systems/why-have-a-scheduler/the-scheduler-sge/
 Computational Shared Facility,Son of Grid Engine,University of Manchester,UK,http://ri.itservices.manchester.ac.uk/csf3/getting-started/tutorial/
 Iceberg,Son of Grid Engine,University of Sheffield,UK,https://docs.hpc.shef.ac.uk/en/latest/hpc/scheduler/submit.html#submit-queue
 ShARC,Son of Grid Engine,University of Sheffield,UK,https://docs.hpc.shef.ac.uk/en/latest/hpc/scheduler/submit.html#submit-queue
