@@ -2,7 +2,10 @@
 
 What's the most popular HPC scheduler?  I asked this question on twitter https://twitter.com/walkingrandomly/status/1254004819490201600 and started collating the data here.  
 
-It's very incomplete and PRs are welcome
+It's very incomplete and PRs are welcome.  
+* Ideally there should be a link to system documentation showing evidence that a system uses foo or bar.
+* If you think there should be different fields in the CSV files, create an issue
+* I'm not sure how to deal with dates.  For now I am just thinking about live systems.
 
 ## Current Top 500 systems
 
