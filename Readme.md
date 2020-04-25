@@ -4,7 +4,7 @@ What's the most popular HPC scheduler?  I asked this question on twitter https:/
 
 It's very incomplete and PRs are welcome
 
-## Top 500 systems
+## Current Top 500 systems
 
 * [Top500.csv](./top500.csv)
 
