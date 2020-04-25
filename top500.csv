@@ -1,4 +1,5 @@
-System,Scheduler,Evidence,YearChecked,Top500Data
+System,Scheduler,Evidence,Top500Year,Top500Data
 Summit,IBM Spectrum LSF,https://docs.olcf.ornl.gov/systems/summit_user_guide.html#running-jobs,2020,https://www.top500.org/system/179397
 Sierra,IBM Spectrum LSF,https://hpc.llnl.gov/training/tutorials/using-lcs-sierra-system,2020,https://www.top500.org/system/178764
 Sunway TaihuLight,SLURM (yhq),????,2020,https://www.top500.org/system/178764
+MareNostrum 4,SLURM,2020,https://www.bsc.es/user-support/mn4.php#runningjobs
