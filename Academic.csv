@@ -1,6 +1,7 @@
 SystemName,Scheduler,University,Country,Evidence
 Bessemer,SLURM,University of Sheffield,UK,http://docs.iceberg.shef.ac.uk/en/latest/hpc/scheduler/submit.html#submit-queue
 Computational Shared Facility,Son of Grid Engine,University of Manchester,UK,http://ri.itservices.manchester.ac.uk/csf3/getting-started/tutorial/
-Iceberg,Son of Grid Engine,University of Sheffield,UK,http://docs.iceberg.shef.ac.uk/en/latest/hpc/scheduler/submit.html#submit-queue
-Sharc,Son of Grid Engine,University of Sheffield,UK,http://docs.iceberg.shef.ac.uk/en/latest/hpc/scheduler/submit.html#submit-queue
+Iceberg,Son of Grid Engine,University of Sheffield,UK,https://docs.hpc.shef.ac.uk/en/latest/hpc/scheduler/submit.html#submit-queue
+ShARC,Son of Grid Engine,University of Sheffield,UK,https://docs.hpc.shef.ac.uk/en/latest/hpc/scheduler/submit.html#submit-queue
+Bessemer,SLURM,University of Sheffield,UK,http://docs.hpc.shef.ac.uk/en/latest/hpc/scheduler/submit.html#submit-queue
 
