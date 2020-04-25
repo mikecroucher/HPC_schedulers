@@ -13,7 +13,7 @@ It's very incomplete and PRs are welcome.
 
 ## University Systems
 
-* [Academic.csv](./academic.csv)
+* [Academic.csv](./Academic.csv)
 
 ## Other systems
 
