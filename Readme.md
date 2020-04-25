@@ -14,8 +14,14 @@ It's very incomplete and PRs are welcome
 
 ## Other systems
 
-What might go here?
+Not in the Top 500 and not a University system.
 
-**The schedulers**
+* [other.csv](./other.csv)
 
+## The schedulers
+
+Links to the Schedulers
+
+[SLURM](https://slurm.schedmd.com/documentation.html)
+[Son of Grid Engine](https://sourceforge.net/projects/gridengine/) - community project to continue Sun's old gridengine 
 
