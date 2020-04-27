@@ -16,3 +16,11 @@ Bessemer,SLURM,University of Sheffield,UK,http://docs.hpc.shef.ac.uk/en/latest/h
 Viking,SLURM,University of York,UK,https://wiki.york.ac.uk/display/RHPC/Viking+-+The+York+Super+Advanced+Research+Computing+Cluster
 HiPerGator 2,SLURM,University of Florida,USA,https://www.rc.ufl.edu/services/procedures/scheduling/
 Panda2,SLURM,Weill Cornell Medicine,USA,https://wcmscu.atlassian.net/wiki/spaces/WIKI/pages/327731/Using+Slurm
+SUNBIRD,SLURM,Swansea University,UK,https://portal.supercomputing.wales/index.php/index/submitting-jobs/
+HAWK,SLURM,Cardiff University,UK,https://portal.supercomputing.wales/index.php/index/submitting-jobs/
+enhpc,SLURM,Swansea University,UK,http://enhpc-wiki.swan.ac.uk/index.php/running-software/
+ulgqcd,PBS/Torque,University of Liverpool,UK,http://pcwww.liv.ac.uk/~steved/ulgqcd.htm
+DiRAC DiaL,PBS Pro,University of Leicester,UK,https://www2.le.ac.uk/offices/itservices/ithelp/services/hpc/dirac/run-a-computation/job-types
+CSD3,SLURM,University of Cambridge,UK,https://docs.hpc.cam.ac.uk/hpc/user-guide/quickstart.html#running
+Tesseract,PBS Pro,University of Edinburgh,UK,https://tesseract-dirac.readthedocs.io/en/latest/user-guide/batch.html#using-pbspro
+COSMA,SLURM,Durham University,UK,https://www.dur.ac.uk/icc/cosma/support/slurm/
