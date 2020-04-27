@@ -4,9 +4,14 @@ ARC 3,Son of Grid Engine,University of Leeds,UK,https://arc.leeds.ac.uk/using-th
 ARC 4,Son of Grid Engine,University of Leeds,UK,https://arc.leeds.ac.uk/using-the-systems/why-have-a-scheduler/the-scheduler-sge/
 BlueBear,SLURM,University of Birmingham,UK, https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/bluebear/bluebear-job-submission.aspx
 Computational Shared Facility,Son of Grid Engine,University of Manchester,UK,http://ri.itservices.manchester.ac.uk/csf3/getting-started/tutorial/
+Grace,Son of Grid Engine,UCL,UK,https://www.rc.ucl.ac.uk/docs/Clusters/Grace/
 Great Lakes,SLURM,University of Michigan,USA,https://arc-ts.umich.edu/greatlakes/
 Iceberg,Son of Grid Engine,University of Sheffield,UK,https://docs.hpc.shef.ac.uk/en/latest/hpc/scheduler/submit.html#submit-queue
+Kathleen,Son of Grid Engine,UCL,UK,https://www.rc.ucl.ac.uk/docs/Clusters/Kathleen/
+Michael,Son of Grid Engine,Faraday Institution (UCL),UK,https://www.rc.ucl.ac.uk/docs/Clusters/Michael/
+Myriad,Son of Grid Engine,UCL,UK,https://www.rc.ucl.ac.uk/docs/Clusters/Myriad/
 ShARC,Son of Grid Engine,University of Sheffield,UK,https://docs.hpc.shef.ac.uk/en/latest/hpc/scheduler/submit.html#submit-queue
+Thomas,Son of Grid Engine,MMM Hub (UCL),UK,https://www.rc.ucl.ac.uk/docs/Clusters/Thomas/
 Bessemer,SLURM,University of Sheffield,UK,http://docs.hpc.shef.ac.uk/en/latest/hpc/scheduler/submit.html#submit-queue
 Viking,SLURM,University of York,UK,https://wiki.york.ac.uk/display/RHPC/Viking+-+The+York+Super+Advanced+Research+Computing+Cluster
 
