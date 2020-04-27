@@ -2,6 +2,8 @@ SystemName,Scheduler,University,Country,Evidence
 ARC 2,Son of Grid Engine,University of Leeds,UK,https://arc.leeds.ac.uk/using-the-systems/why-have-a-scheduler/the-scheduler-sge/
 ARC 3,Son of Grid Engine,University of Leeds,UK,https://arc.leeds.ac.uk/using-the-systems/why-have-a-scheduler/the-scheduler-sge/
 ARC 4,Son of Grid Engine,University of Leeds,UK,https://arc.leeds.ac.uk/using-the-systems/why-have-a-scheduler/the-scheduler-sge/
+arcus-b,University of Oxford,SLURM,https://help.it.ox.ac.uk/arc/connecting-to-arc
+arcus-htc,University of Oxford,SLURM,https://help.it.ox.ac.uk/arc/connecting-to-arc
 BlueBear,SLURM,University of Birmingham,UK, https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/bluebear/bluebear-job-submission.aspx
 Computational Shared Facility,Son of Grid Engine,University of Manchester,UK,http://ri.itservices.manchester.ac.uk/csf3/getting-started/tutorial/
 Grace,Son of Grid Engine,UCL,UK,https://www.rc.ucl.ac.uk/docs/Clusters/Grace/
