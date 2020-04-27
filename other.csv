@@ -1,3 +1,4 @@
 system,scheduler,evidence,organization
 GW4-Isambard,PBS Pro,https://gw4-isambard.github.io/docs/user-guide/jobs.html,UK Tier 2 HPC centre
 JADE,SLURM,http://docs.jade.ac.uk/en/latest/jade/scheduler/index.html,UK Tier 2 HPC centre
+EMBL Cluster,SLURM,https://gbcs.embl.de/portal/tiki-index.php?page=Hardware,European Molecular Biology Laboratory
