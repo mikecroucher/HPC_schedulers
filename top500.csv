@@ -4,4 +4,11 @@ Sierra,IBM Spectrum LSF,https://hpc.llnl.gov/training/tutorials/using-lcs-sierra
 Sunway TaihuLight,SLURM (yhq),????,2019,https://www.top500.org/system/178764
 Frontera,SLURM,https://frontera-portal.tacc.utexas.edu/user-guide/running/,2019,https://www.top500.org/system/179607
 Piz Daint,SLURM,https://user.cscs.ch/access/running/,2019,https://www.top500.org/system/177824
+AI Bridging Cloud Infrastructure,Univa Grid Engine,https://docs.abci.ai/en/03/,2019,https://www.top500.org/system/179393
+SuperMUC-NG,SLURM,https://doku.lrz.de/display/PUBLIC/Job+Processing+with+SLURM+on+SuperMUC-NG,2019,https://www.top500.org/system/179566
+Lassen,IBM Spectrum LSF,https://hpc.llnl.gov/training/tutorials/using-lcs-sierra-system,2019,https://www.top500.org/system/179567
+Sequoia,SLURM,https://computing.llnl.gov/tutorials/bgq/,2019,https://www.top500.org/system/177556
+Cori,SLURM,https://docs.nersc.gov/jobs/,2019,https://www.top500.org/site/48429
+Stampede2,SLURM,https://portal.tacc.utexas.edu/user-guides/stampede2#running-slurm,2019,https://www.top500.org/system/179045
+Marconi,SLURM,https://wiki.u-gov.it/confluence/display/SCAIUS/UG3.1%3A+MARCONI+UserGuide#UG3.1:MARCONIUserGuide-Batch,2019,https://www.top500.org/system/178937
 MareNostrum 4,SLURM,https://www.bsc.es/user-support/mn4.php#runningjobs,2019,https://www.top500.org/system/179442
